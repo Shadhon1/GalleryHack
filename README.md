@@ -2,7 +2,7 @@
 ## Termux Users Gallery Hack Tool (Owner - Razor Kenway | SL Android | Sri Lanka 🇱🇰 
 ### Command list 👇👇
 
->pkg update && pkg upgrade
+##pkg update && pkg upgrade
 
 >pkg install git
 
